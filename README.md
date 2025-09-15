@@ -25,8 +25,8 @@ This is a solution to the [Testimonials Grid Section](https://www.frontendmentor
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()  
-- Live Site URL: [GitHub Pages]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/testimonials-grid-section-Kq80gUentn)  
+- Live Site URL: [GitHub Pages](https://rahulpaul127.github.io/fm-testimonials-grid-section-main/)
 
 ---
 
